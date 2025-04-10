@@ -27,7 +27,7 @@ AnythingLLM 是由 Mintplex Labs 開發的一款全方位 AI 應用程式，旨�
 
 <id> = slave001
 
-![image](https://hackmd.io/_uploads/Hk1QF1H01x.png)
+![image](./img/image.png/)
 
 ---
 
@@ -74,9 +74,9 @@ XXX = your id
 ```
 
 ## Auth
-![image 1](https://hackmd.io/_uploads/SkzSt1HR1g.png)
+![image 1](./img/image%201.png)
 
-![image 2](https://hackmd.io/_uploads/rk6BYkSCyg.png)
+![image 2](./img/image%202.png)
 
 # Cline
 
@@ -96,9 +96,9 @@ API Key: `123`
 
 Model ID: `deepseek-ai/DeepSeek-R1`
 
-![image 3](https://hackmd.io/_uploads/B1kDK1H0kl.png)
+![image 3](./img/image%203.png)
 
-![image 4](https://hackmd.io/_uploads/BkjvYySCJx.png)
+![image 4](./img/image%204.png)
 
 
 # 上課連線
@@ -109,12 +109,12 @@ Model ID: `deepseek-ai/DeepSeek-R1`
     
     [https://cloudinfra-services.ubilink.ai/02b62aba-db1e-42a1-8278-9d778445794d/<xxx>/lab](https://cloudinfra-services.ubilink.ai/02b62aba-db1e-42a1-8278-9d778445794d/slave87/lab/workspaces/auto-C)
     
-![image 5](https://hackmd.io/_uploads/ryudY1rCkx.png)
+![image 5](./img/image%205.png)
 
     
 2. 打開 Terminal
     
-![image 6](https://hackmd.io/_uploads/ryaOF1SCyx.png)
+![image 6](./img/image%206.png)
 
 3. 就可以輸入指令使用
 
@@ -241,7 +241,7 @@ EXPOSE 8888 8000 22
 CMD ["/app/start_node.sh"] 
 ```
 
-
+[training.zip](https://github.com/yoyoisaboy/Anything-LLM-DIY/blob/main/training.zip)
 ---
 
 # 程式碼
